@@ -1,0 +1,18 @@
+{
+  "name": "alexa-42",
+  "version": "1.0.0",
+  "description": "Die Antwort auf die Frage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "42"
+  ],
+  "author": "Dirk Ecker",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
